@@ -1,4 +1,4 @@
-# 📘 MATLAB Projects – BCA 4th Semester
+# 📘 MATLAB Coding – BCA 4th Semester
 
 Welcome to my MATLAB coding repository from the **4th Semester of BCA**! 🎓  
 This repo includes fundamental programs and mini-exercises that helped me build a strong foundation in MATLAB programming.
@@ -46,10 +46,6 @@ To run any of the `.m` files:
 2. Navigate to the folder containing this repo
 3. Run the script using the command window or editor
 
-
-```
-
-Each folder contains well-commented `.m` files with examples and exercises for that topic.
 
 ---
 
