@@ -1,4 +1,3 @@
-```markdown
 # 📘 MATLAB Projects – BCA 4th Semester
 
 Welcome to my MATLAB coding repository from the **4th Semester of BCA**! 🎓  
@@ -67,4 +66,3 @@ This is a personal academic project, but feel free to explore or suggest improve
 ---
 
 Happy Coding! 💻✨
-```
